@@ -37,7 +37,7 @@
     "@types/node": "^20.0.0",
     "typescript": "^6.0.3",
     "@biomejs/biome": "^2.3.11",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.8"
   },
   "eliza": {
     "platforms": [
