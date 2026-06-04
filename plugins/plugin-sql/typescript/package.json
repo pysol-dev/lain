@@ -74,7 +74,7 @@
     "@types/pg": "^8.15.6",
     "@types/ws": "^8.18.1",
     "typescript": "^6.0.0",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.8"
   },
   "scripts": {
     "dev": "bun run build.ts --watch",
