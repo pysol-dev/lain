@@ -29,7 +29,7 @@
     "prettier": "3.6.1",
     "tsup": "8.5.0",
     "typescript": "^6.0.0",
-    "vitest": "3.2.4"
+    "vitest": "3.2.6"
   },
   "scripts": {
     "build": "tsup",

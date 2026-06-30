@@ -41,7 +41,7 @@
     "eslint": "^9.17.0",
     "prettier": "3.5.3",
     "tsup": "8.4.0",
-    "vitest": "1.6.1"
+    "vitest": "3.2.6"
   },
   "scripts": {
     "build": "tsup",
