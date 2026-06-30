@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "tsdown": "^0.12.0",
-    "vitest": "3.2.4"
+    "vitest": "3.2.6"
   },
   "agentConfig": {
     "pluginType": "elizaos:plugin:1.0.0",

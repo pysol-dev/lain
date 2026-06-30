@@ -17,7 +17,7 @@
     "dotenv": "^16.5.0",
     "tsup": "8.5.0",
     "vite-tsconfig-paths": "^4.3.2",
-    "vitest": "^2.0.4"
+    "vitest": "^4.1.9"
   },
   "scripts": {
     "build": "tsup",
