@@ -65,7 +65,7 @@
     "bun-types": "^1.3.14",
     "@typescript/native": "npm:typescript@^7.0.2",
     "typescript": "^6.0.3",
-    "vitest": "4.1.10"
+    "vitest": "4.1.11"
   },
   "dependencies": {
     "@nut-tree-fork/nut-js": "^4.2.6",
